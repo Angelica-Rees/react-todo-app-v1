@@ -50,6 +50,6 @@ function ToDoList() {
       updateTodo={updateTodo}/>
     </div>
   );
-}
+};
 
 export default ToDoList
