@@ -45,7 +45,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 2. Within this directory run `docker build -f Dockerfile -t todo .`
 
-3. Run docker `run -d -it -p 3000:3000 todo`
+3. Run `docker run -d -it -p 3000:3000 todo`
 
 4. Go to browser and type `localhost:3000`
 
