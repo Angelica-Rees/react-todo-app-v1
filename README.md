@@ -14,7 +14,8 @@
 
 7. When finished with it, run `docker stop <docker container id>`
 
-
+##Note
+The background of this page was initially utilizing unsplash's free random photo generator. However, it has since run out of the demo period, so the background now stays a dark grey.
 
 ## Learn More
 
